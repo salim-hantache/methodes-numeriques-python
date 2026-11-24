@@ -19,7 +19,7 @@ python numerical_methods.py
 L'exemple résout `x^3 - x - 2 = 0` sur `[1,2]`. La racine est proche de
 `1.5213797068`.
 
-## À savoir expliquer
+## Notions théoriques abordées
 Hypothèses de la dichotomie/fausse position, critère d'arrêt, convergence locale
 de Newton, condition de contraction pour le point fixe, distinction entre
 résidu `|f(x_n)|` et erreur sur la racine.
